@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-jquery.themepunch.revolution.min",
+      "appliesTo": "jquery.themepunch.revolution.min.js",
+      "type": "launch"
+    }
+  ]
+}
