@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /tradersliquidity.com/
+Allow: /tradersliquidity.com/index_coming soon.html
+
+User-agent: *
+Disallow: /tradersliquidity.com/index_light.html
+Disallow: /tradersliquidity.com/index.html
+
+Sitemap: https://tradersliquidity.com/sitemap.xml
